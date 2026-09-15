@@ -4,7 +4,7 @@ import urllib.request
 from bs4 import BeautifulSoup
 
 url = "https://{}.myanmarexam.org/{}"
-years = [ 2016]
+years = [2022, 2023, 2024, 2025, 2026]
 links = [
     "ygn.html", "mdy.html", "npw.html", "ayy.html", "sgg.html", "mgy.html", "bgo.html", "tni.html", "kcn.html",
     "kyh.html", "kyn.html", "chn.html", "mon.html", "rke.html", "shn.html",
